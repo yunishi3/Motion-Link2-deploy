@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://yunishi3.github.io/csb-qr1ut/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://yunishi3.github.io/csb-qr1ut/static/js/main.b288b62c.chunk.js",
+    "main.js.map": "https://yunishi3.github.io/csb-qr1ut/static/js/main.b288b62c.chunk.js.map",
+    "runtime-main.js": "https://yunishi3.github.io/csb-qr1ut/static/js/runtime-main.5436698a.js",
+    "runtime-main.js.map": "https://yunishi3.github.io/csb-qr1ut/static/js/runtime-main.5436698a.js.map",
+    "static/js/2.ddce9bf0.chunk.js": "https://yunishi3.github.io/csb-qr1ut/static/js/2.ddce9bf0.chunk.js",
+    "static/js/2.ddce9bf0.chunk.js.map": "https://yunishi3.github.io/csb-qr1ut/static/js/2.ddce9bf0.chunk.js.map",
+    "index.html": "https://yunishi3.github.io/csb-qr1ut/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://yunishi3.github.io/csb-qr1ut/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.ddce9bf0.chunk.js.LICENSE.txt": "https://yunishi3.github.io/csb-qr1ut/static/js/2.ddce9bf0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5436698a.js",
+    "static/js/2.ddce9bf0.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.b288b62c.chunk.js"
+  ]
+}
